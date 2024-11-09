@@ -1,3 +1,3 @@
 # Python-bindings_Python_packaging_Docker
 
-![Лог](https://example.com/logo.png)
+![Лог](https://github.com/koshcamargo/Python-bindings_Python_packaging_Docker/blob/main/log.png)
